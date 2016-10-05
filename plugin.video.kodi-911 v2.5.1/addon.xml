@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.kodi-911"
+       name="[COLOR red]Kodi-911[/COLOR]"
+       version="2.5.1"
+       provider-name="Choco IPTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV en vivo y Peliculas de Kodi-911</summary>
+    <description lang="en">Este addon es GRATIS.Todo el contenido en este addon es sacado de la web.Gracias a Christian Chavez Soto por los Logos del addon.
+	Tambien a Ariel de Kodi PR por dejarme pertenecer a su Repositorio.
+	Preguntas o dudas Nuestro Grupo en Fb es https://www.facebook.com/groups/565323786949408/.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

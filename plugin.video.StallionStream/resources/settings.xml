@@ -1,0 +1,14 @@
+<settings>
+<category label="Connection Settings">
+     <setting id="lehekylg" type="text" label="Host" default="http://158.69.127.19"/>
+     <setting id="kasutajanimi" type="text" label="Usuario" default=""/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Contraseña" default=""/>
+     <setting id="pordinumber" type="text" label="Puerto" default="8000"/>
+</category>
+<category label="Other Settings">
+	 <setting id="uuendused" type="bool" label="Revisar actalizaciones al iniciar?"value="true"/>
+	 <setting id="improve" type="bool" label="Usar configuraciones Avanzadas?"value="false"/>
+	 <setting id="vanemalukk" type="bool" label="Control Parental?"value="true"/>
+	 <setting id="vanemakood" type="text" option="writeable,hidden" label="Codigo Parental" default="1234"/>
+</category>
+</settings>

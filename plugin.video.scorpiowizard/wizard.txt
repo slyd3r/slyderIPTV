@@ -1,0 +1,23 @@
+name="Max Kodi Build"
+url="http://freemediaentertainment.com/Build/MaxKodiBuild.zip"
+img="https://img.fotor.com/share/1473996394549qOU.jpg"
+fanart="https://img.fotor.com/share/1473996303598Qcd.jpg"
+description="Best Kodi Tutorials. @Freeworld"
+
+name="Stallion TigerMax Build"
+url="http://freemediaentertainment.com/Build/StallionTigerMaxBuild.zip"
+img="https://img.fotor.com/share/1472867821548wcZ.jpg"
+fanart="https://img.fotor.com/share/1472867997634rXo.jpg"
+description="Best Kodi Tutorials. @Stallion"
+
+name="Virtual Academic Build"
+url="http://freemediaentertainment.com/Build/VirtualAcademicBuild.zip"
+img="https://img.fotor.com/share/1473995823439TXw.jpg"
+fanart="https://img.fotor.com/share/1473995910604vhp.jpg"
+description="Best Kodi Tutorials. @Freeworld"
+
+name="Project Scorpio Build"
+url="http://freemediaentertainment.com/Build/ProjectScorpioBuild.zip"
+img="http://freemediaentertainment.com/Wizard/icon.png"
+fanart="http://freemediaentertainment.com/Wizard/fanart.jpg"
+description="Best Kodi Tutorials. @Freeworld"

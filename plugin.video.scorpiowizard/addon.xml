@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.scorpiowizard" name="[COLOR ghostwhite]KODI PROJECT SCORPIO[/COLOR]" version="1.0.0" provider-name="Freeworld">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Scorpio Wizard</summary>
+    <description lang="en">Best Kodi Tutorials</description>
+	<website>http://freemediaentertainment.com</website>
+    <platform>all</platform>
+  </extension>
+</addon>
